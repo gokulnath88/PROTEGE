@@ -1,0 +1,2 @@
+# PROTEGE
+I followed the tutorial in https://github.com/ontop/ontop/wiki/Easy-Tutorial:-Using-Ontop-from-Protege and succesfully connected the database("Connection is OK when I press Test Connection button). But it gives me a syntax error for ontology mappings ("Syntax error: no viable alternative at input '.' Location: line 6 column 46). I tried with other expressions and found no luck. A screenshot is attached herewith presenting the error. i FOLLOWED THE PROCEDURE
